@@ -1,0 +1,1 @@
+waypoints for the templates
